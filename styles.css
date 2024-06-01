@@ -303,7 +303,7 @@ fa-facebook-f,fa-twitter,fa-instagram{
 }
 
 /* Responsive Styles */
-@media (max-width: 1000px) {
+@media (max-width: 1300px) {
     .slide img{
         width: auto;
         height: 100%;
