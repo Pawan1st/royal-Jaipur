@@ -307,7 +307,6 @@ fa-facebook-f,fa-twitter,fa-instagram{
     .slide img{
         width: auto;
         height: 100%;
-        object-position: center;
     }
 }
 @media (max-width: 768px) {
